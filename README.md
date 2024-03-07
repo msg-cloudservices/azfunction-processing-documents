@@ -1,1 +1,1 @@
-# azfunction-processing-documents
+Blob-triggered Azure function processing new text-pdf documents uploaded into blob storage. The PDFs are parsed, preprocessed and subsequently vectorized/embedded for further upload into azure ai search service.
